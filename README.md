@@ -7,7 +7,7 @@ Qiniu Resource Storage SDK for Golang
 
 ### v7.x
 
-* 请访问： https://github.com/qiniu/api.v7 (建设中)
+* 请访问： https://github.com/qiniu/api.v7
 
 ### v6.x
 
